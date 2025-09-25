@@ -47,7 +47,7 @@
   position: relative;
 }
 #es-rc #es-garnier.es-garnier .es-kv__title::after {
-  content: url("https://www.ros.net.pl/Portals/0/rich-content/garnier/3600542416412/img/bb.png");
+  content: url("../images/bb.png");
   vertical-align: top;
 }
 #es-rc #es-garnier.es-garnier .es-kv__subtitle {
