@@ -1,3 +1,4 @@
+(() => {
   var swiper = new Swiper('#es-rc #es-garnier .swiper', {
     // Optional parameters
     // direction: 'horizontal',
@@ -30,3 +31,4 @@
       clickable: true
     }
   });
+})()
